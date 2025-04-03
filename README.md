@@ -1,0 +1,2 @@
+This Project is all about ROBOTIC PROCESS AUTOMATION. In simple terms, it is use used to automate the tasks and finish the tasks within minutes which normally takes hours to do. Best example is Web Scrapping.
+In this project, the RPA is used to fetch all all the details automatically and convert that information into an csv file and then it will automatically send this .csv file to the email given.
